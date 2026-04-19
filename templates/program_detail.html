@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ program.title }}</title>
+</head>
+<body>
+
+    <h1>{{ program.title }}</h1>
+    <p><strong>Date:</strong> {{ program.date }}</p>
+    <p><strong>Location:</strong> {{ program.location }}</p>
+    <p><strong>Objective:</strong> {{ program.objective }}</p>
+    <p><strong>Description:</strong> {{ program.description }}</p>
+    <p><strong>Total Beneficiaries:</strong> {{ program.total_beneficiaries }}</p>
+
+    <h2>Guests</h2>
+    <pre>{{ program.guests }}</pre>
+
+    <h2>Gallery</h2>
+
+    {% for image in program.images.all %}
+        <img src="{{ image.image.url }}" width="300" style="margin:10px;">
+    {% empty %}
+        <p>No images uploaded.</p>
+    {% endfor %}
+
+</body>
+</html>
