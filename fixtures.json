@@ -1,0 +1,162 @@
+[
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$863EnqFwHvx9Z1ysyt8Ius$qFDaufsJFtkL87mSCty4T0g3zM5aTXFQKTE9fHQ6KfU=",
+    "last_login": "2026-04-19T06:26:55.056Z",
+    "is_superuser": true,
+    "username": "srv_ngo",
+    "first_name": "",
+    "last_name": "",
+    "email": "simran15@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-01-11T08:02:11.832Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0hul8q89a6uqzhuqp2d3hlhun4f7amt5",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIcIfx07J5nQMAdJW1FpJBMVd-9RMrQWp782X4zH_at-L3R6mdkVwbs8pvFkJ5UD4CPUO8LT0vd1jnyo8JP2vi0IL1uZ_fvoIRW-lpZJ1xXHBV0JzCUDaAFkSSRkeQCKtIqOYNGOC0yDoOkrBWOAmxmny-9MDcx:1vz8Fo:B928bpgn6HEsNtWmXnw90AirHh8F_sV_fizlPK25n3k",
+    "expire_date": "2026-03-22T07:08:44.547Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2e0cp4fx763s4jnafr5gr2u50sca4slf",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIcIfx07J5nQMAdJW1FpJBMVd-9RMrQWp782X4zH_at-L3R6mdkVwbs8pvFkJ5UD4CPUO8LT0vd1jnyo8JP2vi0IL1uZ_fvoIRW-lpZJ1xXHBV0JzCUDaAFkSSRkeQCKtIqOYNGOC0yDoOkrBWOAmxmny-9MDcx:1vtgZR:VGUdfJ-69D_C5qC6GGFMUE1Z5GqA7uI2_2TofYMAxes",
+    "expire_date": "2026-03-07T06:34:29.649Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7cwu6cyrkht73xjwfpemdt7h5heg75lj",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIcIfx07J5nQMAdJW1FpJBMVd-9RMrQWp782X4zH_at-L3R6mdkVwbs8pvFkJ5UD4CPUO8LT0vd1jnyo8JP2vi0IL1uZ_fvoIRW-lpZJ1xXHBV0JzCUDaAFkSSRkeQCKtIqOYNGOC0yDoOkrBWOAmxmny-9MDcx:1vj8v0:aebWpipUyzyGgkIR-uBbFURbrZJAroQCFABAYdbYRSQ",
+    "expire_date": "2026-02-06T04:37:10.219Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7q3mspqm4lh191vtmpj6qi89ppl3v4r8",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIcIfx07J5nQMAdJW1FpJBMVd-9RMrQWp782X4zH_at-L3R6mdkVwbs8pvFkJ5UD4CPUO8LT0vd1jnyo8JP2vi0IL1uZ_fvoIRW-lpZJ1xXHBV0JzCUDaAFkSSRkeQCKtIqOYNGOC0yDoOkrBWOAmxmny-9MDcx:1vp3DN:XOm6NIOdYt0ajpq27dmQm3XafJxXkdxkFf-IE0sg0Ww",
+    "expire_date": "2026-02-22T11:44:33.295Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9vscuf98dhxn92qz7lf6hz1g7icsijth",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQBf-FsyHAAoJH7_0GAuwiVQNJaU_Gf9cmPej1zcx7sRC3tYZt0BJmZBcm2el3SzE_qO0A77HdOs-9rcuc-K7wgw4-daTn9XD_Dmoc9VubUrxG0E5CktYaJJmjTw4AtfFFoRCi-OKUzhYIVNbak7Co6CxlVJ69P9TPN0c:1wDx4r:U6WrbaF0HIDx-kgfgxnVeydCLqwN-599ZOfBZ6oReZM",
+    "expire_date": "2026-05-02T04:14:41.690Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "c6igbts5tmi2dqhljvk01mlp4ait41y3",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnyxp9ASc8ZrN31GgeQLcVJFXF3iJQC2jczb1MR16XEtcscp6QuyqjT70bIT6k7SA-s96a51WWeSO-KPmjXt5bkdT3cv4OCvXxrGAIgI1prE1LOASg4Ic_OImeHNLjRGGbrEc5BHFD2KYCMRGSDcer9AQdaOLI:1veqRJ:8LOaF9taaD44xwYSixruz44u7-gScWuJkM3TjOsh5ps",
+    "expire_date": "2026-01-25T08:04:45.871Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gxhjnf2m653tjkjeo4wi26feb4ak6cze",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8KS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_daAxjiRbQgaUUyKpPJE5BWaJAFcsaBFKeQtGIPoSpEkCkE2kwhaIXt_APemOLs:1wELcN:x76ghAIVA4VLJO-CYXqUBoMjNBnS0rpJkXoOAqNZhPM",
+    "expire_date": "2026-05-03T06:26:55.066Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hj8vg24va3r268jx2m6u43b56d5qdgl4",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIcIfx07J5nQMAdJW1FpJBMVd-9RMrQWp782X4zH_at-L3R6mdkVwbs8pvFkJ5UD4CPUO8LT0vd1jnyo8JP2vi0IL1uZ_fvoIRW-lpZJ1xXHBV0JzCUDaAFkSSRkeQCKtIqOYNGOC0yDoOkrBWOAmxmny-9MDcx:1vrUgh:cStk3slpoAeprivQYZlmcEiDL-nwoqg4zHKowz7jTuc",
+    "expire_date": "2026-03-01T05:28:55.612Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "la5znzg3wrnqso9itddvmd30ak5k5odk",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQBf-FsyHAAoJH7_0GAuwiVQNJaU_Gf9cmPej1zcx7sRC3tYZt0BJmZBcm2el3SzE_qO0A77HdOs-9rcuc-K7wgw4-daTn9XD_Dmoc9VubUrxG0E5CktYaJJmjTw4AtfFFoRCi-OKUzhYIVNbak7Co6CxlVJ69P9TPN0c:1wDxeJ:5tuSuUHDrKTh5aWDkNZaQICB9mCZziw9WM0VY22hVZ4",
+    "expire_date": "2026-05-02T04:51:19.916Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mm0jfxidr86j214j23zacw7ts3yn7ab7",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIcIfx07J5nQMAdJW1FpJBMVd-9RMrQWp782X4zH_at-L3R6mdkVwbs8pvFkJ5UD4CPUO8LT0vd1jnyo8JP2vi0IL1uZ_fvoIRW-lpZJ1xXHBV0JzCUDaAFkSSRkeQCKtIqOYNGOC0yDoOkrBWOAmxmny-9MDcx:1vq3Im:GeiREuoLlPrfqsWJ5lOwwRgmND-A2FOm5koQymqK4dY",
+    "expire_date": "2026-02-25T06:02:16.780Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "nzwc8ie0rq5gbcobrt7c55bfzgpqd5o2",
+  "fields": {
+    "session_data": ".eJxVjL0OwyAQg9-FuUIcIfx07J5nQMAdJW1FpJBMVd-9RMrQWp782X4zH_at-L3R6mdkVwbs8pvFkJ5UD4CPUO8LT0vd1jnyo8JP2vi0IL1uZ_fvoIRW-lpZJ1xXHBV0JzCUDaAFkSSRkeQCKtIqOYNGOC0yDoOkrBWOAmxmny-9MDcx:1vwZN4:U3AYylvnqis5hjCo92a--3B21Gc56mcTiAmsLAjXHnw",
+    "expire_date": "2026-03-15T05:29:38.671Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "p21dfwf0uaexwxsyufuvvq7ghkdwyf35",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlm2N_5R0nMGa-1d4wBypHwqxN0hUgpo38y8l0i4rS1tC89pJHEWWpx-t4zlwX0HdMd-m2SZ-jqPWe6KPOgirxPx83K4fwcNl_atFbEO0bvAtbL13qGqCkzUQA6Gao3PUAtkZ5idAYDBIcdoI1FAJBDvD9aCN7k:1wDk4R:e9F37NYDVy75ldEjyE7u4s8H-eeGi7yF6Hxsuz0wr_A",
+    "expire_date": "2026-05-01T14:21:23.913Z"
+  }
+},
+{
+  "model": "core.ngoprofile",
+  "pk": 1,
+  "fields": {
+    "name": "SHRI RAMAKRISHNA VIVEKANANDA JNANA VIKASA SHIKSHANA SAMSTE",
+    "short_name": "SRKV Jnana Vikas Samsthe",
+    "address": "C/O SHRI SHARADAMATA PUBLIC SCHOOL\r\nAT/POST – TADAKOD\r\nBETAGERI ROAD\r\nTQ/DIST – DHARWAD\r\nPIN CODE – 581105\r\nKARNATAKA, INDIA",
+    "phone": "+91 99864 68403",
+    "email": "shreeramakrishnajnanaviksasams@gmail.com",
+    "map_link": "https://maps.app.goo.gl/ewEuypa2TZWsn3AbA?g_st=aw",
+    "logo": "",
+    "about": "SHRI RAMKRISHAN VIVEKANAND JNANA VIKAS SHIKSHAN SAMSTHE is a social and educational organization committed to the holistic development of children, students, and the community. Inspired by the ideals of Swami Vivekananda, the organization works towards education, cultural enrichment, health awareness, and environmental responsibility.\r\n\r\nThe NGO focuses on nurturing moral values, discipline, social responsibility, and lifelong learning while addressing educational, health, and environmental needs of society.",
+    "vision": "To build an enlightened, healthy, and value-based society by empowering children and youth through education, culture, health awareness, and environmental responsibility.",
+    "mission": "Pre-Primary Education\r\nTo provide a safe, joyful, and value-oriented learning environment for early childhood development.\r\nTo encourage curiosity, creativity, moral values, and basic life skills in young children.\r\n\r\nCultural Development of Children\r\nTo promote awareness of Indian culture, traditions, ethics, and social values among children.\r\nTo encourage creativity through music, dance, art, storytelling, celebration of festivals, and cultural activities.\r\n\r\nLearning Hub\r\nTo support students with academic guidance, life skills, and continuous learning opportunities.\r\nTo promote inclusive education and lifelong learning for children and youth.\r\n\r\nCompetitive Examination Preparation for Students and Youth\r\nTo provide guidance and training for various competitive examinations.\r\nTo develop competence in general knowledge, logical reasoning, mathematics, language skills, and time management.\r\nTo build self-confidence, discipline, goal orientation, and a habit of consistent practice among students and youth.\r\n\r\nHealth Camps\r\nTo organize regular health camps for children and the community.\r\nTo promote preventive healthcare, early diagnosis, and healthy living practices.\r\n\r\nHealth Awareness\r\nTo educate students and communities about hygiene, nutrition, mental well-being, and healthy lifestyles.\r\nTo build awareness on women’s health, child health, and overall community wellness.\r\n\r\nOrganic Plantation & Environmental Care\r\nTo encourage organic farming, tree plantation, and eco-friendly practices.\r\nTo instill love for nature and a sense of responsibility towards environmental conservation among children and society.",
+    "objectives": "To inculcate moral values, discipline, and cultural awareness among children.\r\nTo provide quality education from the early childhood stage.\r\nTo equip students and youth with academic skills and competitive examination preparedness.\r\nTo improve community health through awareness programs and health camps.\r\nTo support and promote women’s and children’s health initiatives.\r\nTo create awareness about environmental protection and organic farming practices.\r\nTo foster social responsibility, leadership, and a spirit of service among students and youth.\r\nTo promote inclusive education with equal opportunities for all sections of society.",
+    "registration_number": "DWR-S154 2012-13",
+    "established_date": "2012-09-18",
+    "legal_identity": "Registered under Karnataka Societies Act",
+    "governing_body_details": "",
+    "registered_location": "",
+    "created_at": "2026-01-13T15:44:49.806Z",
+    "updated_at": "2026-03-13T06:08:56.732Z"
+  }
+},
+{
+  "model": "core.organizationdetails",
+  "pk": 1,
+  "fields": {
+    "registration_number": "DWR-S154 2012-13",
+    "established_date": "2012-09-18",
+    "legal_identity": "Registered under the Karnataka Societies Act, 1960 (Act 17 of 1960). Registered on September 18, 2012 under the Karnataka Societies Act, 1960.",
+    "registered_location": "Dharwad",
+    "office_address": "Shri Ramakrishna Vivekananda Jnana Vikas Shikshan Samsthe (R)\r\nC/o Veeranagouda Ninganagouda Marigoudar\r\nShri Sharadamata Public School\r\nPost: Tadakod\r\nTaluk/District: Dharwad\r\nPIN Code: 581105\r\nKarnataka, India",
+    "mobile_number_1": "9986468403",
+    "mobile_number_2": "7829980749",
+    "mobile_number_3": "6363195343",
+    "is_active": true,
+    "created_at": "2026-02-21T15:12:23.729Z",
+    "updated_at": "2026-03-08T06:59:44.233Z"
+  }
+},
+{
+  "model": "programs.program",
+  "pk": 1,
+  "fields": {
+    "title": "Nashamukt Abhiyan Awareness Program",
+    "category": "health_awareness",
+    "description": 
