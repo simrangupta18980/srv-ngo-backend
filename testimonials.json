@@ -1,0 +1,62 @@
+[
+  {
+    "id": 5,
+    "name": "Savita Hattiholi",
+    "designation": "Parent",
+    "message": "Namaste,  \r\nSavita Hattiholi\r\n\r\nOur children are studying at Sharada Mata Public School, which is run under Sri Ramakrishna Vivekananda Jnana Vikasa Shikshana Samste. This school is like a temple of learning where, along with academic education, children are taught discipline, values, culture, and friendship.\r\n\r\nIn addition to studies, the teachers also conduct sports activities, cultural programs, and storytelling sessions in a very effective and engaging way. Every program in the school is organized very well.\r\n\r\nEvery month, the school conducts parent meetings to discuss the progress of the children and gives personal attention to each student. Because we are sending our children to this school, they are learning their lessons very well and improving day by day.\r\n\r\nWe sincerely thank the school for providing such good education and values to our children.",
+    "photo": "testimonials/Testimonial_5.jpeg",
+    "program": "",
+    "rating": 5,
+    "featured": true,
+    "is_active": true,
+    "created_at": "2026-03-08 13:53:58.526329+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Madivalappa Hattiholi",
+    "designation": "Parent",
+    "message": "Namaste,\r\n\r\nMy children are studying at Sharada Mata Public School, which is run under Sri Ramakrishna Vivekananda Jnana Vikasa Shikshana Samste. The school environment is very pleasant and supportive. The teachers take personal care of every child.\r\n\r\nAlong with academic lessons, the children are also taught good values, discipline, and how to behave respectfully with elders. The school also encourages students to participate in cultural activities and sports competitions.\r\n\r\nOverall, the teachers are working very hard for the all-round development of the children and are shaping the future of the students.\r\n\r\nThank you.",
+    "photo": "testimonials/Testimonials_4.jpeg",
+    "program": "",
+    "rating": 5,
+    "featured": true,
+    "is_active": true,
+    "created_at": "2026-03-08 13:49:57.840827+00:00"
+  },
+  {
+    "id": 3,
+    "name": "Guru Odeyar",
+    "designation": "Vehicle Driver – SRV NGO School Program",
+    "message": "I have been serving as a vehicle driver at Shri Ramkrishan Vivekanand Jnana Vikas Shikshan Samsthe for the past five years. Along with my driving responsibilities, I also actively participate in various school activities and support the institution whenever needed. I feel happy and proud to be a part of this organization and to contribute to its work for students and the community.",
+    "photo": "testimonials/Testimonia_3.jpeg",
+    "program": "School Education Program",
+    "rating": 5,
+    "featured": true,
+    "is_active": true,
+    "created_at": "2026-03-08 11:26:20.232575+00:00"
+  },
+  {
+    "id": 2,
+    "name": "Soumya Laddigatti",
+    "designation": "School Teacher – SRV NGO Education Program",
+    "message": "I have been serving as a teacher at Shri Ramkrishan Vivekanand Jnana Vikas Shikshan Samsthe for the past four years. Along with teaching students, the institution has also supported me in continuing my higher education. I feel proud to be a part of this organization. The school environment is very positive, supportive, and encourages both teachers and students to grow.",
+    "photo": "testimonials/Testimonia_2.jpeg",
+    "program": "Education Program",
+    "rating": 5,
+    "featured": true,
+    "is_active": true,
+    "created_at": "2026-03-08 11:21:07.110476+00:00"
+  },
+  {
+    "id": 1,
+    "name": "Vijaya Matti",
+    "designation": "Teacher – SRV NGO School Program",
+    "message": "I have been serving as a teacher at Shri Ramkrishan Vivekanand Jnana Vikas Shikshan Samsthe for the past five years. It has been a wonderful experience to contribute to the education and development of students in our community. I perform my responsibilities with great dedication and happiness, and I feel proud to be a part of this institution and its mission.",
+    "photo": "testimonials/Testimonia_1.jpeg",
+    "program": "School Education Program",
+    "rating": 5,
+    "featured": true,
+    "is_active": true,
+    "created_at": "2026-03-08 11:17:11.289796+00:00"
+  }
+]

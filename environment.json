@@ -1,0 +1,119 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "title": "\"Green Tadakod Initiative\": World Environment Day Tree Plantation Drive 2025🌿",
+      "description": "On the occasion of World Environment Day, a comprehensive plantation drive was organized across Tadakod village. Led by the Gram Panchayat President and local volunteers, the event focused on planting shade-giving and fruit-bearing trees in public spaces and along main roads. Participants engaged in a community dialogue about sustainable living and the long-term benefits of a healthy ecosystem. The enthusiastic involvement of local youth and elders successfully reinforced the village's commitment to a cleaner, greener future.📝",
+      "date": "2025-06-05",
+      "location": "Tadakod Village, Dharwad District, Karnataka📍",
+      "objective": "To celebrate World Environment Day by enhancing the local green cover and educating the community on the vital importance of environmental conservation.🎯",
+      "total_beneficiaries": "Approximately 600+ residents of Tadakod village and the surrounding community.👥",
+      "supporting_organization": "Chief Guest: Smt. Doddavva Karikatti (President, Gram Panchayat, Tadakod)\r\nOrganized By: Tadakod Gram Panchayat in collaboration with local community volunteers.🤝",
+      "created_at": "2026-02-19 06:40:23.422792+00:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 17,
+      "activity_id": 1,
+      "image": "environment/Environment_17.jpeg",
+      "uploaded_at": "2026-02-19 07:44:29.567975+00:00"
+    },
+    {
+      "id": 16,
+      "activity_id": 1,
+      "image": "environment/Environment_16.jpeg",
+      "uploaded_at": "2026-02-19 07:44:11.843281+00:00"
+    },
+    {
+      "id": 15,
+      "activity_id": 1,
+      "image": "environment/Environment_15.jpeg",
+      "uploaded_at": "2026-02-19 07:43:52.908341+00:00"
+    },
+    {
+      "id": 14,
+      "activity_id": 1,
+      "image": "environment/Environment_14_21leUUP.jpeg",
+      "uploaded_at": "2026-02-19 07:43:35.233964+00:00"
+    },
+    {
+      "id": 13,
+      "activity_id": 1,
+      "image": "environment/Environment_14.jpeg",
+      "uploaded_at": "2026-02-19 07:43:16.867084+00:00"
+    },
+    {
+      "id": 12,
+      "activity_id": 1,
+      "image": "environment/Environment_13.jpeg",
+      "uploaded_at": "2026-02-19 07:43:02.266901+00:00"
+    },
+    {
+      "id": 11,
+      "activity_id": 1,
+      "image": "environment/Environment_12.jpeg",
+      "uploaded_at": "2026-02-19 07:42:46.904374+00:00"
+    },
+    {
+      "id": 10,
+      "activity_id": 1,
+      "image": "environment/Environment_11.jpeg",
+      "uploaded_at": "2026-02-19 07:42:31.364504+00:00"
+    },
+    {
+      "id": 9,
+      "activity_id": 1,
+      "image": "environment/Environment_10.jpeg",
+      "uploaded_at": "2026-02-19 07:42:16.048598+00:00"
+    },
+    {
+      "id": 8,
+      "activity_id": 1,
+      "image": "environment/Environment_8.jpeg",
+      "uploaded_at": "2026-02-19 07:41:33.821331+00:00"
+    },
+    {
+      "id": 7,
+      "activity_id": 1,
+      "image": "environment/Environment_7.jpeg",
+      "uploaded_at": "2026-02-19 07:41:26.274298+00:00"
+    },
+    {
+      "id": 6,
+      "activity_id": 1,
+      "image": "environment/Environment_6.jpeg",
+      "uploaded_at": "2026-02-19 07:41:10.425869+00:00"
+    },
+    {
+      "id": 5,
+      "activity_id": 1,
+      "image": "environment/Environment_5.jpeg",
+      "uploaded_at": "2026-02-19 07:40:56.637140+00:00"
+    },
+    {
+      "id": 4,
+      "activity_id": 1,
+      "image": "environment/Environment_4.jpeg",
+      "uploaded_at": "2026-02-19 07:40:25.714079+00:00"
+    },
+    {
+      "id": 3,
+      "activity_id": 1,
+      "image": "environment/Environment_3.jpeg",
+      "uploaded_at": "2026-02-19 07:40:12.381992+00:00"
+    },
+    {
+      "id": 2,
+      "activity_id": 1,
+      "image": "environment/Environment_2.jpeg",
+      "uploaded_at": "2026-02-19 07:18:38.809688+00:00"
+    },
+    {
+      "id": 1,
+      "activity_id": 1,
+      "image": "environment/Environment_1.jpeg",
+      "uploaded_at": "2026-02-19 07:18:09.621290+00:00"
+    }
+  ]
+}

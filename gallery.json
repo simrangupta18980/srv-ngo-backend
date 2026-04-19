@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "title": "Grandmother and Grandfather Day",
+    "description": "Celebration of Grandmother and Grandfather Day with senior citizens, sharing love, respect, and joyful moments with grandparents.",
+    "image": "gallery/1_Grand_Mother_and_Father_day.jpeg",
+    "category": "events",
+    "created_at": "2026-02-08 12:02:50.764568+00:00"
+  },
+  {
+    "id": 2,
+    "title": "Grandmother and Grandfather Day",
+    "description": "Celebration of Grandmother and Grandfather Day with senior citizens, sharing love, respect, and joyful moments with grandparents.",
+    "image": "gallery/2Grand_Mother_and_Father_day.jpeg",
+    "category": "events",
+    "created_at": "2026-02-08 14:31:02.611294+00:00"
+  },
+  {
+    "id": 3,
+    "title": "Grandmother and Grandfather Day",
+    "description": "Celebration of Grandmother and Grandfather Day with senior citizens, sharing love, respect, and joyful moments with grandparents.",
+    "image": "gallery/3_Grand_Mother_and_Father_day.jpeg",
+    "category": "events",
+    "created_at": "2026-02-08 14:31:39.742956+00:00"
+  },
+  {
+    "id": 4,
+    "title": "Grandmother and Grandfather Day",
+    "description": "Celebration of Grandmother and Grandfather Day with senior citizens, sharing love, respect, and joyful moments with grandparents.",
+    "image": "gallery/4_Grand_Mother_and_Father_day.jpeg",
+    "category": "events",
+    "created_at": "2026-02-08 14:32:07.092503+00:00"
+  },
+  {
+    "id": 5,
+    "title": "Grandmother and Grandfather Day",
+    "description": "Celebration of Grandmother and Grandfather Day with senior citizens, sharing love, respect, and joyful moments with grandparents.",
+    "image": "gallery/5_Grand_Mother_and_Father_day.jpeg",
+    "category": "events",
+    "created_at": "2026-02-08 14:32:32.445379+00:00"
+  },
+  {
+    "id": 6,
+    "title": "Kala pratibotsava",
+    "description": "“A vibrant cultural festival showcasing the talent and creativity of students and community members through music, dance, and arts.”",
+    "image": "gallery/photo_1.jpeg",
+    "category": "events",
+    "created_at": "2026-02-08 15:02:03.253726+00:00"
+  },
+  {
+    "id": 7,
+    "title": "ngo deepvli 🎉🤝✨",
+    "description": "🎉🤝✨NGO Deepavali celebration organized to spread joy, unity, and cultural values among the community.🎉🤝✨",
+    "image": "gallery/ngo_deepvli1.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 06:14:41.372742+00:00"
+  },
+  {
+    "id": 9,
+    "title": "Kala pratibotsava 🎭🎨✨",
+    "description": "🎭🎨✨Kala Pratibotsava event organized to promote creativity, cultural activities, and student talent development. 🎨🎭",
+    "image": "gallery/Kala_pratibotsava_2.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 06:36:42.093081+00:00"
+  },
+  {
+    "id": 10,
+    "title": "NGO Deepavali 🎉🤝✨",
+    "description": "🎉🤝✨NGO Deepavali celebration organized to spread joy, unity, and cultural values among the community.🎉🤝✨",
+    "image": "gallery/ngo_deepvli_2.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 06:41:54.054521+00:00"
+  },
+  {
+    "id": 11,
+    "title": "NGO Deepavali 🎉🤝✨",
+    "description": "🎉🤝✨NGO Deepavali celebration organized to spread joy, unity, and cultural values among the community.🎉🤝✨",
+    "image": "gallery/ngo_deepvli_3.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 06:42:31.244961+00:00"
+  },
+  {
+    "id": 12,
+    "title": "✨NGO Deepavali 🎉🤝✨",
+    "description": "🎉🤝✨NGO Deepavali celebration organized to spread joy, unity, and cultural values among the community.🎉🤝✨",
+    "image": "gallery/ngo_deepvli_4.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 06:43:15.417652+00:00"
+  },
+  {
+    "id": 13,
+    "title": "Ganesh Chaturthi Festival at NGO 🎉",
+    "description": "Our NGO organized Ganesh Chaturthi celebrations to promote cultural awareness, devotion, and community bonding among children and local residents. 🙏✨",
+    "image": "gallery/Ganesh_Chaturthi_1.jpeg",
+    "category": "general",
+    "created_at": "2026-02-11 06:50:22.180842+00:00"
+  },
+  {
+    "id": 14,
+    "title": "Karnataka Rajyotsava Learning & Cultural Program 🌼📖",
+    "description": "Students participated in Karnataka Rajyotsava education celebration to learn about Karnataka history, culture, and values in a joyful environment. 📖🇮🇳🎉",
+    "image": "gallery/ngoKarnataka_rajyotsava_1.jpeg",
+    "category": "education",
+    "created_at": "2026-02-11 07:01:17.556455+00:00"
+  },
+  {
+    "id": 15,
+    "title": "Karnataka Rajyotsava Learning & Cultural Program 🌼📖",
+    "description": "NGO Karnataka Rajyotsava education and cultural program was conducted to educate students and community members about Karnataka heritage, language, and unity. 🇮🇳🏫🌼",
+    "image": "gallery/ngoKarnataka_rajyotsava_2.jpeg",
+    "category": "education",
+    "created_at": "2026-02-11 07:02:40.482093+00:00"
+  },
+  {
+    "id": 16,
+    "title": "Karnataka Rajyotsava Learning & Cultural Program 🌼📖",
+    "description": "NGO Karnataka Rajyotsava education and cultural program was conducted to educate students and community members about Karnataka heritage, language, and unity. 🇮🇳🏫🌼",
+    "image": "gallery/ngoKarnataka_rajyotsava_3.jpeg",
+    "category": "education",
+    "created_at": "2026-02-11 07:05:39.605393+00:00"
+  },
+  {
+    "id": 17,
+    "title": "🌾🎉Makar Sankranti Festival Event 🪁",
+    "description": "Our NGO celebrated Sankranti to promote traditional culture, happiness, and community bonding through festive activities. 🌞🌾✨",
+    "image": "gallery/NGO_Sankranti_1.jpeg",
+    "category": "general",
+    "created_at": "2026-02-11 07:11:47.284125+00:00"
+  },
+  {
+    "id": 18,
+    "title": "Sharada Jayanti Festival Celebration 🌸✨",
+    "description": "Our NGO celebrated Sharada Jayanti to honor knowledge, culture, and community bonding through various activities and programs. 🌼📖✨",
+    "image": "gallery/NGO_Sharada_jayanti_1.jpeg",
+    "category": "general",
+    "created_at": "2026-02-11 07:40:40.297748+00:00"
+  },
+  {
+    "id": 19,
+    "title": "Sharada Jayanti Festival Celebration 🌸✨",
+    "description": "Our NGO celebrated Sharada Jayanti to honor knowledge, culture, and community bonding through various activities and programs. 🌼📖✨",
+    "image": "gallery/NGO_Sharada_jayanti_2.jpeg",
+    "category": "general",
+    "created_at": "2026-02-11 07:41:04.156211+00:00"
+  },
+  {
+    "id": 20,
+    "title": "Sharada Jayanti Festival Celebration 🌸✨",
+    "description": "Our NGO celebrated Sharada Jayanti to honor knowledge, culture, and community bonding through various activities and programs. 🌼📖✨",
+    "image": "gallery/NGO_Sharada_jayanti_3.jpeg",
+    "category": "general",
+    "created_at": "2026-02-11 07:41:28.529538+00:00"
+  },
+  {
+    "id": 21,
+    "title": "Sharada Jayanti Festival Celebration 🌸✨",
+    "description": "Our NGO celebrated Sharada Jayanti to honor knowledge, culture, and community bonding through various activities and programs. 🌼📖✨",
+    "image": "gallery/NGO_Sharada_jayanti_4.jpeg",
+    "category": "general",
+    "created_at": "2026-02-11 07:41:53.611678+00:00"
+  },
+  {
+    "id": 22,
+    "title": "Akshara Abhyaas Education Program 📚✨",
+    "description": "🎓📖🤝Our NGO conducted the Akshara Abhyaas education program to support early literacy, learning skills, and awareness among children in the community. 🎓📖🤝",
+    "image": "gallery/Akshara_Abhyaas_1.jpeg",
+    "category": "education",
+    "created_at": "2026-02-11 07:45:31.884090+00:00"
+  },
+  {
+    "id": 23,
+    "title": "Akshara Abhyaas Education Program 📚✨",
+    "description": "🎓📖🤝Our NGO conducted the Akshara Abhyaas education program to support early literacy, learning skills, and awareness among children in the community. 🎓📖🤝",
+    "image": "gallery/Akshara_Abhyaas_2_TkR3jLf.jpeg",
+    "category": "education",
+    "created_at": "2026-02-11 07:45:57.238195+00:00"
+  },
+  {
+    "id": 24,
+    "title": "Akshara Abhyaas Education Program 📚✨",
+    "description": "Our NGO conducted the Akshara Abhyaas education program to support early literacy, learning skills, and awareness among children in the community. 🎓📖🤝",
+    "image": "gallery/Akshara_Abhyaas_3.jpeg",
+    "category": "education",
+    "created_at": "2026-02-11 07:46:20.565878+00:00"
+  },
+  {
+    "id": 25,
+    "title": "Akshara Abhyaas Education Program 📚✨",
+    "description": "Our NGO conducted the Akshara Abhyaas education program to support early literacy, learning skills, and awareness among children in the community. 🎓📖🤝",
+    "image": "gallery/Akshara_Abhyaas_4.jpeg",
+    "category": "education",
+    "created_at": "2026-02-11 07:46:44.916983+00:00"
+  },
+  {
+    "id": 26,
+    "title": "NGO Nagara Panchami Celebration 🐍🌸",
+    "description": "Our NGO organized Nagara Panchami celebration to preserve cultural heritage and strengthen community bonding among members. 🐍✨",
+    "image": "gallery/NGO_Nagara_Panchami_1_xmWxxGC.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 07:55:47.728032+00:00"
+  },
+  {
+    "id": 27,
+    "title": "Krishna Janmashtami Celebration 🪔🎉",
+    "description": "Our NGO celebrated Shree Krishna Janmashtami to promote cultural heritage, devotion, and community bonding among children and families. 🪔🌸🤝",
+    "image": "gallery/NGOShree_Krishna_janmastami_1.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 08:00:21.167819+00:00"
+  },
+  {
+    "id": 28,
+    "title": "Krishna Janmashtami Celebration 🪔🎉",
+    "description": "Our NGO celebrated Shree Krishna Janmashtami to promote cultural heritage, devotion, and community bonding among children and families. 🪔🌸🤝",
+    "image": "gallery/NGOShree_Krishna_janmastami_2.jpeg",
+    "category": "events",
+    "created_at": "2026-02-11 08:00:45.990342+00:00"
+  },
+  {
+    "id": 29,
+    "title": "📰🌳 Newspaper Coverage – Tree Plantation Drive",
+    "description": "🗞️ This newspaper coverage highlights our NGO’s tree plantation drive initiative. 🌱 The event focused on promoting environmental awareness and encouraging community participation to create a greener and healthier environment. 🌍",
+    "image": "gallery/Tree_Plantation_Drive.jpeg",
+    "category": "environment",
+    "created_at": "2026-02-11 10:02:58.029693+00:00"
+  },
+  {
+    "id": 30,
+    "title": "📰🌿 Media Coverage – Community Plantation Initiative",
+    "description": "🗞️ This newspaper article showcases the successful plantation campaign organized by our NGO. 🌳 The initiative aimed to support environmental sustainability and spread awareness about the importance of tree conservation. 🌍",
+    "image": "gallery/Community_Plantation_Initiative.jpeg",
+    "category": "environment",
+    "created_at": "2026-02-11 10:03:55.735333+00:00"
+  }
+]

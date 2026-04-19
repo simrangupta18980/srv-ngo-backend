@@ -1,0 +1,43 @@
+[
+{
+  "model": "core.ngoprofile",
+  "pk": 1,
+  "fields": {
+    "name": "SHRI RAMAKRISHNA VIVEKANANDA JNANA VIKASA SHIKSHANA SAMSTE",
+    "short_name": "SRKV Jnana Vikas Samsthe",
+    "address": "C/O SHRI SHARADAMATA PUBLIC SCHOOL\r\nAT/POST – TADAKOD\r\nBETAGERI ROAD\r\nTQ/DIST – DHARWAD\r\nPIN CODE – 581105\r\nKARNATAKA, INDIA",
+    "phone": "+91 99864 68403",
+    "email": "shreeramakrishnajnanaviksasams@gmail.com",
+    "map_link": "https://maps.app.goo.gl/ewEuypa2TZWsn3AbA?g_st=aw",
+    "logo": "",
+    "about": "SHRI RAMKRISHAN VIVEKANAND JNANA VIKAS SHIKSHAN SAMSTHE is a social and educational organization committed to the holistic development of children, students, and the community. Inspired by the ideals of Swami Vivekananda, the organization works towards education, cultural enrichment, health awareness, and environmental responsibility.\r\n\r\nThe NGO focuses on nurturing moral values, discipline, social responsibility, and lifelong learning while addressing educational, health, and environmental needs of society.",
+    "vision": "To build an enlightened, healthy, and value-based society by empowering children and youth through education, culture, health awareness, and environmental responsibility.",
+    "mission": "Pre-Primary Education\r\nTo provide a safe, joyful, and value-oriented learning environment for early childhood development.\r\nTo encourage curiosity, creativity, moral values, and basic life skills in young children.\r\n\r\nCultural Development of Children\r\nTo promote awareness of Indian culture, traditions, ethics, and social values among children.\r\nTo encourage creativity through music, dance, art, storytelling, celebration of festivals, and cultural activities.\r\n\r\nLearning Hub\r\nTo support students with academic guidance, life skills, and continuous learning opportunities.\r\nTo promote inclusive education and lifelong learning for children and youth.\r\n\r\nCompetitive Examination Preparation for Students and Youth\r\nTo provide guidance and training for various competitive examinations.\r\nTo develop competence in general knowledge, logical reasoning, mathematics, language skills, and time management.\r\nTo build self-confidence, discipline, goal orientation, and a habit of consistent practice among students and youth.\r\n\r\nHealth Camps\r\nTo organize regular health camps for children and the community.\r\nTo promote preventive healthcare, early diagnosis, and healthy living practices.\r\n\r\nHealth Awareness\r\nTo educate students and communities about hygiene, nutrition, mental well-being, and healthy lifestyles.\r\nTo build awareness on women’s health, child health, and overall community wellness.\r\n\r\nOrganic Plantation & Environmental Care\r\nTo encourage organic farming, tree plantation, and eco-friendly practices.\r\nTo instill love for nature and a sense of responsibility towards environmental conservation among children and society.",
+    "objectives": "To inculcate moral values, discipline, and cultural awareness among children.\r\nTo provide quality education from the early childhood stage.\r\nTo equip students and youth with academic skills and competitive examination preparedness.\r\nTo improve community health through awareness programs and health camps.\r\nTo support and promote women’s and children’s health initiatives.\r\nTo create awareness about environmental protection and organic farming practices.\r\nTo foster social responsibility, leadership, and a spirit of service among students and youth.\r\nTo promote inclusive education with equal opportunities for all sections of society.",
+    "registration_number": "DWR-S154 2012-13",
+    "established_date": "2012-09-18",
+    "legal_identity": "Registered under Karnataka Societies Act",
+    "governing_body_details": "",
+    "registered_location": "",
+    "created_at": "2026-01-13T15:44:49.806Z",
+    "updated_at": "2026-03-13T06:08:56.732Z"
+  }
+},
+{
+  "model": "core.organizationdetails",
+  "pk": 1,
+  "fields": {
+    "registration_number": "DWR-S154 2012-13",
+    "established_date": "2012-09-18",
+    "legal_identity": "Registered under the Karnataka Societies Act, 1960 (Act 17 of 1960). Registered on September 18, 2012 under the Karnataka Societies Act, 1960.",
+    "registered_location": "Dharwad",
+    "office_address": "Shri Ramakrishna Vivekananda Jnana Vikas Shikshan Samsthe (R)\r\nC/o Veeranagouda Ninganagouda Marigoudar\r\nShri Sharadamata Public School\r\nPost: Tadakod\r\nTaluk/District: Dharwad\r\nPIN Code: 581105\r\nKarnataka, India",
+    "mobile_number_1": "9986468403",
+    "mobile_number_2": "7829980749",
+    "mobile_number_3": "6363195343",
+    "is_active": true,
+    "created_at": "2026-02-21T15:12:23.729Z",
+    "updated_at": "2026-03-08T06:59:44.233Z"
+  }
+}
+]

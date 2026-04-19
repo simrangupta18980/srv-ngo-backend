@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5,
+    "title": "Learning Kit Distribution for CWSN (Children With Special Needs)",
+    "category": "learning_hub",
+    "description": "📝  A Learning Kit Distribution Program was organized to support Children With Special Needs (CWSN) in Dharwad. The initiative provided educational learning materials designed to enhance the learning experience of special children. The kits included basic educational supplies and activity materials to assist their learning and development. The program was conducted with the support of the organization and dedicated volunteers. Teachers, staff members, and guests participated in the event and encouraged the children and their parents. The initiative also raised awareness about inclusive education and the importance of supporting children with special needs. The event concluded with the successful distribution of learning kits to all beneficiaries.",
+    "date": "2026-03-06",
+    "location": "📍 Dharwad, Karnataka",
+    "image": "programs/Program_5.jpeg",
+    "total_beneficiaries": 200,
+    "volunteers_count": 5,
+    "sponsors": "Ramakrishna Vivekananda Jnana Vikasa Shikshana Samste  🤝\r\n\r\nNGO team, Education Department BRC team, BEO Dharwad  🤝\r\n\r\nConnect For organization   🤝",
+    "created_at": "2026-03-08 14:40:30.572864+00:00",
+    "updated_at": "2026-03-08 14:52:06.401845+00:00"
+  },
+  {
+    "id": 3,
+    "title": "🏥Health Camp",
+    "category": "health_awareness",
+    "description": "📝 A Health Camp was organized to provide free medical check-ups and health consultations for the local community in Garag, Dharwad. Doctors and medical staff conducted general health screenings including blood pressure, blood sugar tests, and basic physical examinations. Participants were also guided on maintaining proper hygiene, nutrition, and a healthy lifestyle. The camp helped in early detection of common health issues and encouraged people to take preventive care. The program received a positive response from the community, and many individuals benefited from the medical services provided.",
+    "date": "2025-12-06",
+    "location": "Garag, Dharwad 📍",
+    "image": "programs/Program_3.jpeg",
+    "total_beneficiaries": 180,
+    "volunteers_count": 10,
+    "sponsors": "Guttal Hospital and Health Department, Garag  🤝",
+    "created_at": "2026-03-08 14:25:44.976958+00:00",
+    "updated_at": "2026-03-09 06:53:40.223070+00:00"
+  },
+  {
+    "id": 4,
+    "title": "Walker Distribution Program",
+    "category": "learning_hub",
+    "description": "The Walker Distribution Program was organized to support differently abled individuals and senior citizens who face difficulty in walking. Walkers were distributed to beneficiaries in the presence of organization members and volunteers. The initiative aimed to improve mobility, confidence, and independence among the beneficiaries. The program also raised awareness about the importance of supporting persons with disabilities and elderly citizens in the community. Beneficiaries expressed their gratitude for the support received.",
+    "date": "2025-11-14",
+    "location": "📍Tadakod, Dharwad (or mention the relevant village/city)",
+    "image": "programs/Program_4.jpeg",
+    "total_beneficiaries": 60,
+    "volunteers_count": 8,
+    "sponsors": "NGO Connect for Department for the Empowerment of Differently Abled and Senior Citizens\r\n\r\nವಿಕಲಚೇತನರ ಹಾಗೂ ಹಿರಿಯ ನಾಗರಿಕರ ಸಬಲೀಕರಣ ಇಲಾಖೆ 🤝",
+    "created_at": "2026-03-08 14:33:26.487035+00:00",
+    "updated_at": "2026-03-08 14:40:43.705385+00:00"
+  },
+  {
+    "id": 1,
+    "title": "Nashamukt Abhiyan Awareness Program",
+    "category": "health_awareness",
+    "description": "The Nishamukt Abhiyan Awareness Program was organized to educate students about the dangers of drug addiction and substance abuse. Awareness sessions were conducted explaining the negative impact of drugs on health, education, and society. Students were encouraged to avoid harmful substances and focus on building a healthy, responsible future. The program also emphasized discipline, good habits, and making responsible life choices. The initiative received active participation from students and school staff. 🏥",
+    "date": "2025-08-08",
+    "location": "Tadakod, Dharwad 📍",
+    "image": "programs/Program.jpeg",
+    "total_beneficiaries": 460,
+    "volunteers_count": 2,
+    "sponsors": "Government High School Tadakod\r\n\r\nMPS Tadakod\r\n\r\nKGS Tadakod  🤝",
+    "created_at": "2026-03-08 14:15:54.263986+00:00",
+    "updated_at": "2026-03-13 08:38:02.354229+00:00"
+  },
+  {
+    "id": 2,
+    "title": "Battery Distribution for Differently Abled",
+    "category": "health_awareness",
+    "description": "The Battery Distribution Program was organized in Tadakod to support differently abled individuals who rely on battery-powered assistive devices. Batteries were distributed to ensure proper functioning of mobility and support devices, enabling beneficiaries to continue their daily activities without interruption. Volunteers assisted in organizing and distributing the batteries and interacted with the beneficiaries. The initiative was well appreciated by the community and contributed to improving the quality of life for the participants.",
+    "date": "2025-08-06",
+    "location": "Tadakod, Dharwad 📍",
+    "image": "programs/Program_2.jpeg",
+    "total_beneficiaries": 25,
+    "volunteers_count": 6,
+    "sponsors": "Sri Ramakrishna Jnana Vikasa Shikshana Samste 🤝",
+    "created_at": "2026-03-08 14:19:51.420796+00:00",
+    "updated_at": "2026-03-08 14:41:25.606348+00:00"
+  }
+]
